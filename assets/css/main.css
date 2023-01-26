@@ -2569,7 +2569,7 @@ input, select, textarea {
 	}
 
 		.image img {
-			border-radius: 0.25em;
+			border-radius: 50%;
 			display: block;
 		}
 
@@ -2587,7 +2587,7 @@ input, select, textarea {
 			top: 0.25em;
 		}
 
-		.image.right {
+		.image.right{
 			float: right;
 			margin: 0 0 1em 1.5em;
 			top: 0.25em;
